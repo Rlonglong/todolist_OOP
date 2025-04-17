@@ -1,7 +1,3 @@
----
-title : OOPDS_HW1_113550031_劉韋良
----
-
 # Overview
 This project is implemented using Object-Oriented Programming (OOP), and I use a Gemini AI agent to help convert natural language into structured parameters for tasks. The class inheritance and structure are designed to be extendable and modular, so more features and agent capabilities can be added in the future.:
 ![class_Inheritance](https://github.com/user-attachments/assets/e6e73d07-675a-4c96-b0ff-f0c13f760f3b)
